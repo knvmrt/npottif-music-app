@@ -1,0 +1,93 @@
+.main {
+    .boxes {
+        display: flex;
+        margin: auto;
+        justify-content: center;
+
+        .center {
+            display: flex;
+            margin: auto;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            // gap: 40px;
+
+            .imgBox {
+                height: 500px;
+                width: 500px;
+                position: relative;
+                
+                img {
+                    height: 500px;
+                    width: 500px;
+                    border-radius: 200mm;
+                    position: relative;
+                    animation: rotate 8s infinite linear;
+                    border: 1px solid #ffffff;
+                    
+                    @keyframes rotate {
+                        0% {
+                            transform: rotate(0deg);
+                        }
+                        
+                        100% {
+                            transform: rotate(360deg);
+                        }
+                    }
+                    
+                }
+
+                
+                .sorcl {
+                    img {
+                        position: absolute;
+                        height: 120px;
+                        width: 120px;
+                        right: 190px;
+                        top: 190px;
+                        border: 0px solid transparent;
+                        
+                    }
+
+
+                }
+            }
+
+            .bottom-bar {
+                .icons {
+                    display: flex;
+                    gap: 30px;
+
+                    i {
+                        font-size: 40px;
+                        color: #ffffff;
+                    }
+                }
+                
+            }
+
+            #progress{
+                -webkit-appearance: none; // Defoult settings deleted
+
+                width: 900px;
+                height: 7px;
+                background-color: #FF006B;
+                border: 1px solid #6BFF00;
+                border-radius: 10px;
+                cursor: pointer;
+                margin: 20px 0;
+
+
+            }
+            #progress::-webkit-slider-thumb{
+                -webkit-appearance: none; // Defoult settings deleted
+                width: 15px;
+                height: 15px;
+                background-color: #FF006B;
+                border: 2px solid #6BFF00;
+                border-radius: 20px;
+
+            }
+        }
+    }
+}

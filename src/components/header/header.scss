@@ -1,0 +1,39 @@
+header{
+    background-color: #500021;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 90px;
+    align-items: center;
+    
+
+    .logo{
+        img{
+            height: 130px;
+        }
+    }
+
+    .nav{
+        color: white;
+        display: flex;
+        gap: 30px;
+
+        li{
+            font-size: 20px;
+            font-weight: bold;
+
+            .active{
+                color: #6BFF00;
+            }
+
+        }
+    }
+
+    .right-bar{
+        color: white;
+        ul{
+            display: flex;
+            gap: 20px
+            ;
+        }
+    }
+}

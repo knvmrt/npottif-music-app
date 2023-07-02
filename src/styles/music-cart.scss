@@ -1,0 +1,55 @@
+.cart{
+    .music-item{
+        hr{
+            border-color: #500021;
+        }
+        .all{
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 90px;
+            align-items: center;
+            color: #f3f3f3;
+            .music-img{
+                align-items: center;
+                display: flex;
+
+                .order{
+                    p{
+                        font-size: 20px;
+                        font-weight: bolder;
+                        margin-right: 10px;
+                    }
+                }
+
+                .img{
+                    height: 90px;
+                    margin-right: 20px;
+
+                    img{
+                        height: 90px;
+                    }
+                }
+                .title{
+                    p{
+                        font-size: 17px;
+                        font-weight: 800;
+                    }
+                }
+            }
+    
+            .music-artist{
+                
+                p{
+                    font-size: 17px;
+                    font-weight: 500;
+                }
+            }
+            .music-duration{
+                font-size: 17px;
+                font-weight: 600;
+            }
+        }
+
+    }
+    
+}

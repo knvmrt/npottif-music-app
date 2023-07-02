@@ -1,0 +1,107 @@
+[
+
+    {
+        "id": 1,
+        "artist": "Saybu Swag ft. Kazım Can",
+        "musicName": "Oğru",
+        "duration": "3:42",
+        "language": "AZ",
+        "image": "./assets/images/id-1.jpg",
+        "audio": "./assets/audios/id-1.mp3"
+    },
+
+    {
+        "id": 2,
+        "artist": "Nilhan & CEAUS",
+        "musicName": "Never Started",
+        "duration": "2:41",
+        "language": "EN",
+        "image": "./assets/images/id-2.jpg",
+        "audio": "./assets/audios/"
+    },
+
+    {
+        "id": 3,
+        "artist": "Linkin Park",
+        "musicName": "In The End",
+        "duration": "3:39",
+        "language": "EN",
+        "image": "./assets/images/id-3.jpg",
+        "audio": "./assets/audios/"
+    },
+
+    {
+        "id": 4,
+        "artist": "Buga",
+        "musicName": "Моя",
+        "duration": "3:07",
+        "language": "RU",
+        "image": "./assets/images/id-4.jpg",
+        "audio": "./assets/audios/"
+    },
+
+    {
+        "id": 5,
+        "artist": "Rope",
+        "musicName": "Mayıs 9",
+        "duration": "3:46",
+        "language": "TR",
+        "image": "./assets/images/id-5.jpg",
+        "audio": "./assets/audios/"
+    },
+    {
+        "id": 6,
+        "order": 6,
+        "artist": "Paster & OD",
+        "musicName": "Yashma",
+        "duration": "3:41",
+        "language": "AZ",
+        "image": "YashmaI",
+        "audio": "YashmaA"
+    },
+
+    {
+        "id": 7,
+        "order": 7,
+        "artist": "Cavidan Fatihi",
+        "musicName": "Xatirə",
+        "duration": "4:17",
+        "language": "AZ",
+        "image": "XatireI",
+        "audio": "XatireA"
+    },
+
+    {
+        "id": 8,
+        "order": 8,
+        "artist": "Taladro",
+        "musicName": "Dem",
+        "duration": "5:41",
+        "language": "TR",
+        "image": "DemI",
+        "audio": "DemA"
+    },
+
+    {
+        "id": 9,
+        "order": 9,
+        "artist": "DeFakto",
+        "musicName": "Ədyal",
+        "duration": "2:51",
+        "language": "AZ",
+        "image": "AdyalI",
+        "audio": "AdyalA"
+    },
+
+    {
+        "id": 10,
+        "order": 10,
+        "artist": "Mull3",
+        "musicName": "Девочка плачет",
+        "duration": "2:40",
+        "language": "RU",
+        "image": "DevochkaI",
+        "audio": "DevochkaA"
+    }
+
+]
