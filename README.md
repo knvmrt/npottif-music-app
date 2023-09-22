@@ -43,8 +43,8 @@
 <hr>
 <br>
 
-### 🖌️ **Npottif Designer: knvmrt**
-### 💻 **Npottif Developer: knvmrt**
+### 🖌️ **Npottif Designer: [@knvmrt](https://github.com/knvmrt)**
+### 💻 **Npottif Developer: [@knvmrt](https://github.com/knvmrt)**
 
 <br>
 
